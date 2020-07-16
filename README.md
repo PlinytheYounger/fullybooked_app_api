@@ -1,24 +1,31 @@
-# README
+# Fully Booked.
+### Contributors: Whitney Smith
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## The virtual Bookclub app. 
 
-Things you may want to cover:
+This app is a virtual book club app that allows users to create & join Book Clubs based on genre. Users are able to create a profile where they can view their Book Clubs, upcoming events and track their books read. Users are able to post in Book Club group - comments, ideas and update & delete posts. Users are also able to create events for their Book Club and track books that have been read by the group (and collective group ratings)
 
-* Ruby version
+## Languages
+- Rails
+- Ruby
+- React
+- Sass
 
-* System dependencies
+## User Stories
 
-* Configuration
+- User is able to create a profile
+- User is able to log in to their profile
+- User is able to create a Book Club
+- User is able to search for a Book Club by title
+- User is able to post messages/questions/announcements to a Book Club
+- User is able to delete a Book Club group that they created
+- User is able to edit their posts
 
-* Database creation
+## Future Developments
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- User is able to create events in a Book Club
+- Users & Book Clubs have a history of books read
+- User is able to find books (3rd part API) and add them to the group and/or events
+- User is able to make books as "read"
+- User is able to delete books from their queue
+- User is able to see their reading progress
